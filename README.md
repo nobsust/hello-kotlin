@@ -1,2 +1,2 @@
 # hello-kotlin
-begining kotlin
+beginning kotlin
